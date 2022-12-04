@@ -2,9 +2,55 @@
 
 ## Introduction
 
-Code with Ant is program designed for aspiring computer science students to learn and engage with the art of coding. The program assumes basic familiarity with computers but nothing further. In fact, the author measures the success of this program by how accessible it is even to younger audiences, and so every every effort is made to realize this goal.
+Code with Ant is program designed for aspiring computer science students to learn and engage with the art of coding by creating bots for a dice game. The program assumes basic familiarity with computers but nothing further. In fact, the author measures the success of this program by how accessible it is even to younger audiences, and so every every effort is made to realize this goal.
 
 Feedback is not just welcome, but encouraged and should be addressed to [anthonynhein@gmail.com](mailto:anthonynhein@gmail.com).
+
+---
+
+## Schedule
+
+The program will consist of one session per week for four weeks, where each session is three hours long. To keep the students refreshed, each session should start with an icebreaker (~15 minutes) and break for a snack/lunch (~30 minutes) halfway into the session. The instructors should also check up with each student individually at the end of each session (this should be done while students are ambiently working so that the other students are still occupied even when not being checked-in with). These will be omitted from the week-by-week breakdown below. Some icebreaker are listed below:
+
+- A story riddle, like that found [here](https://www.reddit.com/r/puzzles/comments/2zp4a8/dead_naked_man_in_the_desert/).
+- Some sort of game where you have to work as a team to undo the knots in a rope.
+- The watermelon seeds game (no link available).
+- Of course, the dice game, around which this program revolves.
+
+Also note, those students already familiar with coding should be asked to self-identify themselves and then be encouraged to work at their own pace or join the team of instructors. We prefer not to specify a strict schedule for such talented individuals since they have enough exposure to the discipline to understand their preferences and we should instead try to cater to those. Nonetheless, we list some reasonable extensions below:
+
+- Code the project from scratch (whereas most students will be filling in a template).
+- Code a tournament driver and crontab for release on an Amazon EC2 instance.
+- Collect and analyze data to determine the strategy of instructor-submitted bots.
+- Code and deploy an accompanying website for their strategy.
+- Train a machine-learning bot to play the dice game.
+- Repeat any of the above for the [21 Game](https://en.wikipedia.org/wiki/Nim#The_21_game).
+
+**Week 1**: Coding Basics
+
+- Introduce the program and review _What is Coding?_ (~20 minutes).
+- Review _Development Environment_ (~30 minutes).
+- Review _Input and Output_ (~20 minutes).
+- Review _Variables_ (~20 minutes).
+- Review _Basic Types_ (~20 minutes).
+- Review _Functions_ (~20 minutes).
+
+**Week 2**: The Heart of Programming
+
+- Review _Flow of Control_ (~60 minutes).
+- Review _Advanced Types_ (~70 minutes).
+
+**Week 3**: Organizing Data
+
+- Review _User Types_ (~60 minutes).
+- Students start work on their bots (~55 minutes).
+- Preliminary practice run (~15 minutes).
+
+**Week 4**: Faceoff
+
+- Students complete their bots (~70 minutes).
+- Run all student bots against each other (~30 minutes).
+- Outro and Q&A (~30 minutes).
 
 ---
 
@@ -63,16 +109,6 @@ So, code interacts with the outside world by reading input _from_ humans and pro
 
 ---
 
-## Functions
-
-### Arguments
-
-### Return Values
-
-### Exercises
-
----
-
 ## Variables
 
 ### Exercises
@@ -87,6 +123,28 @@ So, code interacts with the outside world by reading input _from_ humans and pro
 
 ### String
 
+### Exercises
+
+---
+
+## Functions
+
+### Arguments
+
+### Return Values
+
+### Exercises
+
+---
+
+## Flow of Control
+
+### Exercises
+
+---
+
+## Advanced Types
+
 ### Lists
 
 ### Dictionary
@@ -96,12 +154,6 @@ So, code interacts with the outside world by reading input _from_ humans and pro
 ---
 
 ## User Types
-
-### Exercises
-
----
-
-## Flow of Control
 
 ### Exercises
 
